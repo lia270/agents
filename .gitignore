@@ -122,7 +122,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -179,3 +178,4 @@ examples/dev/*
 temp_auto_push.bat
 temp_interactive_push.bat
 branch_structure.json
+config.bat
